@@ -1,0 +1,303 @@
+{
+  "company_name": {
+    "chinese": "香韻之旅",
+    "english": "Aroma Voyage"
+  },
+  "slogan": "品味世界，感受咖啡之美",
+  "about_us": {
+    "founding_year": 2015,
+    "description": "香韻之旅是一家獨特的咖啡連鎖店，致力於帶領顧客踏上一段充滿香氣的環球咖啡之旅。我們精心挑選來自世界各地的優質咖啡豆，通過創新的烘焙技術和沖泡方法，為每位顧客呈現出咖啡的多樣風味和文化底蘊。"
+  },
+  "features": [
+    "環球咖啡系列：每月推出不同國家和地區的特色咖啡，讓您足不出戶就能品味世界。",
+    "創意調飲：融合本地風味與國際潮流，推出獨特的調製飲品。",
+    "咖啡文化體驗：定期舉辦咖啡品鑒會和烘焙工作坊，深入了解咖啡的起源與製作。",
+    "可持續發展：支持公平貿易，與咖啡農直接合作，確保高品質和可持續性。"
+  ],
+  "products": [
+    "單品咖啡：來自不同產區的精選咖啡豆，展現獨特風味。",
+    "特調咖啡：創新混合，如「薰衣草蜂蜜拿鐵」和「肉桂焦糖瑪奇朵」。",
+    "世界茶飲：精選全球特色茶葉，推出創意茶飲。",
+    "輕食餐點：融合各國風味的三明治、沙拉和甜點。"
+  ],
+  "customization_products": [
+    "選擇咖啡豆種類和烘焙程度",
+    "多種沖泡方法（手沖、虹吸、冷萃等）",
+    "調整濃度、溫度和配料"
+  ],
+  "membership_program": {
+    "name": "環球品鑒家",
+    "benefits": [
+      "累積消費可兌換免費飲品和獨家周邊商品",
+      "優先參與新品品鑒和咖啡文化活動",
+      "生日特權和專屬優惠",
+      "每月收到精選咖啡豆樣品"
+    ]
+  },
+  "latest_activities": [
+    "咖啡環遊記：月推出一個國家的特色咖啡，配套文化介紹。",
+    "香韻工坊：週末舉辦咖啡烘焙和拉花課程。",
+    "永續星期三：使用環保杯享額外折扣。"
+  ],
+  "commitments": [
+    "品質保證：嚴格的品質控制，確保每一杯都是完美呈現。",
+    "文化傳播：通過咖啡連接世界，促進文化交流。",
+    "環境友好：使用可生物降解包裝，減少碳足跡。"
+  ],
+  "customer_feedback": {
+    "channels": ["店內意見卡", "官方網站", "社交媒體"]
+  },
+  "menu": {
+    "single_origin_coffee": [
+      { "name": "哥倫比亞 蘇普莫", "price": "58", "size": "12oz" },
+      { "name": "衣索比亞 耶加雪菲", "price": "62", "size": "12oz" },
+      { "name": "肯亞 AA級", "price": "65", "size": "12oz" },
+      { "name": "巴西 黃波旁", "price": "55", "size": "12oz" },
+      { "name": "瓜地馬拉 安提瓜", "price": "60", "size": "12oz" },
+      { "name": "義式濃縮咖啡", "price": "30", "size": "12oz" },
+      { "name": "美式咖啡", "price": "28", "size": "12oz" }
+    ],
+    "specialty_coffee": [
+      { "name": "經典拿鐵", "price": "48", "size": "12oz" },
+      { "name": "焦糖瑪奇朵", "price": "52", "size": "12oz" },
+      { "name": "摩卡", "price": "54", "size": "12oz" },
+      { "name": "薰衣草蜂蜜拿鐵", "price": "58", "size": "12oz" },
+      { "name": "肉桂焦糖瑪奇朵", "price": "56", "size": "12oz" },
+      { "name": "香草冰滴咖啡", "price": "60", "size": "12oz" },
+      { "name": "薄荷巧克力摩卡", "price": "40", "size": "12oz" }
+    ],
+    "cold_brew": [
+      { "name": "經典冷萃", "price": "52", "size": "16oz" },
+      { "name": "氮氣冷萃", "price": "58", "size": "16oz" },
+      { "name": "柑橘冷萃", "price": "56", "size": "16oz" }
+    ],
+    "tea": [
+      { "name": "日本抹茶拿鐵", "price": "50", "size": "12oz" },
+      { "name": "印度香料奶茶", "price": "48", "size": "12oz" },
+      { "name": "英式伯爵奶茶", "price": "46", "size": "12oz" },
+      { "name": "台灣烏龍奶茶", "price": "48", "size": "12oz" },
+      { "name": "摩洛哥薄荷茶", "price": "45", "size": "12oz" },
+      { "name": "英式紅茶", "price": "22", "size": "12oz" },
+      { "name": "綠茶拿鐵", "price": "32", "size": "12oz" },
+      { "name": "水果茶", "price": "28", "size": "12oz" },
+      { "name": "花草茶", "price": "25", "size": "12oz" }
+    ],
+    "seasonal_drinks": [
+      { "name": "櫻花抹茶拿鐵", "price": "62", "size": "12oz" },
+      { "name": "椰香芒果冰咖啡", "price": "58", "size": "12oz" },
+      { "name": "玫瑰荔枝氣泡茶", "price": "54", "size": "12oz" }
+    ],
+    "special_drinks": [
+      { "name": "抹茶冰沙", "price": "45" },
+      { "name": "黑糖珍珠奶茶", "price": "38" },
+      { "name": "香芋奶蓋", "price": "42" }
+    ],
+    "food": [
+      { "name": "牛油果全麥三明治", "price": "68" },
+      { "name": "地中海風味沙拉", "price": "72" },
+      { "name": "巴西莓果碗", "price": "65" },
+      { "name": "法式火腿芝士可頌", "price": "45" },
+      { "name": "比利時巧克力華夫餅", "price": "58" },
+      { "name": "新鮮烘焙麵包", "price": "18" },
+      { "name": "藍莓鬆餅", "price": "28" },
+      { "name": "健康沙拉", "price": "45" }
+    ],
+    "desserts": [
+      { "name": "提拉米蘇", "price": "48" },
+      { "name": "紐約芝士蛋糕", "price": "52" },
+      { "name": "抹茶紅豆千層蛋糕", "price": "55" },
+      { "name": "法式焦糖布丁", "price": "45" },
+      { "name": "蛋糕系列", "price": "38" }
+    ],
+    "add_ons": [
+      { "name": "升級為大杯 (16oz)", "price": "10" },
+      { "name": "加shot濃縮", "price": "8" },
+      { "name": "換成植物奶 (豆奶/杏仁奶/燕麥奶)", "price": "5" },
+      { "name": "添加風味糖漿", "price": "5" }
+    ]
+  },
+  "member_discounts": [
+    "會員可享所有飲品9折優惠",
+    "每週一指定飲品買一送一",
+    "生日當月可獲贈任意飲品一杯"
+  ],
+  "menu_notes": [
+    "price均為港幣",
+    "所有飲品均可選擇冰熱",
+    "可根據個人喜好調整甜度和冰量",
+    "請告知服務員任何過敏原信息"
+  ],
+  "branches": [
+    {
+      "name": "中環店",
+      "address": "中環皇后大道中28號中匯大廈地下G05舖",
+      "opening_hours": {
+        "weekdays": "07:00 - 22:00",
+        "weekends_and_holidays": "08:00 - 23:00"
+      }
+    },
+    {
+      "name": "銅鑼灣店",
+      "address": "銅鑼灣軒尼詩道500號希慎廣場4樓401號舖",
+      "opening_hours": {
+        "weekdays": "07:00 - 22:00",
+        "weekends_and_holidays": "08:00 - 23:00"
+      }
+    },
+    {
+      "name": "尖沙咀店",
+      "address": "尖沙咀廣東道30號新港中心地下25號舖",
+      "opening_hours": {
+        "weekdays": "07:00 - 22:00",
+        "weekends_and_holidays": "08:00 - 23:00"
+      }
+    }
+  ],
+  "opening_hours": {
+    "weekdays": "07:00 - 22:00",
+    "weekends_and_holidays": "08:00 - 23:00"
+  },
+  "membership_program_details": {
+    "how_to_join": "在店內或官網填寫表格，首次消費即可成為會員",
+    "point_system": "每消費 $10 可獲 1 積分",
+    "rewards": [
+      "100積分可兌換中杯標準咖啡一杯",
+      "會員專享每月特選飲品8折優惠",
+      "生日當月獲贈特製生日飲品"
+    ],
+    "exclusive_events": [
+      "每月第一個週六：咖啡品鑒會",
+      "每季度一次：咖啡師技巧工作坊"
+    ]
+  },
+  "social_media": {
+    "instagram": "@AromaVoyageHK",
+    "facebook": "facebook.com/AromaVoyageHK",
+    "twitter": "@AromaVoyage_HK"
+  },
+  "customer_experience_sharing": {
+    "hashtag": "#MyAromaVoyage",
+    "reward": "有機會獲得精美禮品"
+  },
+  "customer_service": {
+    "hotline": {
+      "number": "+852 1111 11111",
+      "service_hours": "週一至週五 09:00-18:00"
+    },
+    "email": "customer@aromavoyage.com",
+    "online_chat": {
+      "location": "官網 www.aromavoyage.com 右下角",
+      "availability": "24/7服務"
+    }
+  },
+  "faq": [
+    {
+      "question": "如何訂購？",
+      "answer": "您可以在我們的門店現場點餐，或通過官方App進行線上訂購。"
+    },
+    {
+      "question": "付款方式有哪些？",
+      "answer": "我們接受現金、信用卡、Apple Pay、Google Pay、支付寶和微信支付。"
+    },
+    {
+      "question": "如何追蹤訂單？",
+      "answer": "線上訂單可在App內實時追蹤；門店訂單將收到取餐號碼。"
+    },
+    {
+      "question": "退款政策是什麼？",
+      "answer": "如對產品不滿意，請在15分鐘內與店員聯繫，我們將為您重做或退款。"
+    }
+  ],
+  "sustainability_measures": {
+    "environmental_initiatives": [
+      "使用可生物降解的杯子和餐具",
+      "鼓勵顧客自帶杯子，提供額外折扣",
+      "咖啡渣回收計劃，用於製作有機肥料"
+    ],
+    "coffee_farmer_cooperation": [
+      "直接與小型咖啡農場合作，確保公平price",
+      "支持永續種植方法，保護生物多樣性",
+      "每年組織員工探訪咖啡產地，深入了解種植過程"
+    ],
+    "annual_event": "我們每年會進行一次環保活動，邀請顧客參與，提升大家的環保意識。"
+  },
+  "customization_options": {
+    "milk_options": {
+      "dairy": [
+        { "name": "全脂牛奶", "description": "經典選擇，口感濃郁。" },
+        { "name": "低脂牛奶", "description": "減少脂肪攝取，適合健康飲食者。" },
+        {
+          "name": "脫脂牛奶",
+          "description": "為追求極低脂肪的人士提供的選擇。"
+        }
+      ],
+      "plant_based": [
+        { "name": "杏仁奶", "description": "低卡、無乳糖，適合乳糖不耐症者。" },
+        { "name": "豆奶", "description": "高蛋白質選擇，適合素食者。" },
+        { "name": "椰奶", "description": "帶有天然椰子香氣，增添異國風情。" },
+        { "name": "燕麥奶", "description": "天然甜味，適合環保人士。" }
+      ]
+    },
+    "syrups": [
+      { "name": "香草糖漿", "description": "增添香甜風味，完美搭配咖啡和茶。" },
+      {
+        "name": "焦糖糖漿",
+        "description": "甜而不膩的焦糖滋味，適合愛好甜品的人士。"
+      },
+      {
+        "name": "巧克力糖漿",
+        "description": "為您的飲品增添濃郁的巧克力風味。"
+      },
+      {
+        "name": "薄荷糖漿",
+        "description": "清新提神的選擇，特別適合夏季飲品。"
+      },
+      {
+        "name": "蜂蜜",
+        "description": "健康天然的甜味替代品，滿足對甜味的需求。"
+      }
+    ],
+    "toppings": [
+      { "name": "鮮奶油", "description": "為飲品增添絲滑口感和豐富的層次。" },
+      { "name": "奶泡", "description": "營造細膩的口感，適合拿鐵或卡布奇諾。" },
+      { "name": "珍珠", "description": "Q彈的口感，增添趣味。" },
+      {
+        "name": "果仁",
+        "description": "可選擇添加杏仁、核桃等，增添口感和營養。"
+      },
+      {
+        "name": "新鮮水果",
+        "description": "例如檸檬、橙片、莓果等，為飲品帶來清新風味。"
+      }
+    ],
+    "brewing_methods": [
+      { "name": "冷萃", "description": "長時間冷水浸泡製作" },
+      { "name": "手沖", "description": "單品咖啡可選擇手沖方式" },
+      { "name": "虹吸", "description": "特選咖啡豆可使用虹吸壺製作" }
+    ],
+    "special_requests": [
+      {
+        "name": "無咖啡因選項",
+        "description": "提供無咖啡因版本的飲品，適合對咖啡因敏感的顧客。"
+      },
+      {
+        "name": "低糖選擇",
+        "description": "可選擇減少糖分或使用無糖糖漿，適合減糖飲食者。"
+      },
+      {
+        "name": "熱飲或冷飲",
+        "description": "顧客可以根據喜好選擇飲品的溫度，無論是熱飲還是冰飲。"
+      },
+      {
+        "name": "額外的冰塊或少冰",
+        "description": "根據顧客需求調整冰塊的數量，確保飲品的最佳口感。"
+      }
+    ]
+  },
+  "customization_notes": [
+    "某些客製化選項可能會產生額外費用",
+    "部分特殊要求可能會影響飲品的口感或外觀",
+    "我們會盡力滿足所有客製化需求，但可能受限於某些飲品的特性",
+    "我們的員工經過專業培訓，能夠為您提供有關客製化選項的建議，以確保您獲得最佳的品味體驗。如有任何特殊需求，請隨時與我們的咖啡師溝通。"
+  ]
+}
