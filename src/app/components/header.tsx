@@ -20,13 +20,13 @@ function Header() {
           <nav className="flex items-center space-x-6 text-sm font-semibold">
             <Link
               className="transition-colors hover:text-foreground/80 text-foreground/60"
-              href="/chatbot"
+              href="/"
             >
               Chatbot
             </Link>
             <Link
               className="transition-colors hover:text-foreground/80 text-foreground/60"
-              href="/shop-info"
+              href="/document"
             >
               Shop Information
             </Link>
@@ -50,17 +50,10 @@ function Header() {
               </Link>
               <Link
                 className="text-lg font-medium"
-                href="/shop-info"
+                href="/document"
                 onClick={() => setIsOpen(false)}
               >
                 Shop Information
-              </Link>
-              <Link
-                className="text-lg font-medium"
-                href="/about"
-                onClick={() => setIsOpen(false)}
-              >
-                About
               </Link>
             </nav>
           </SheetContent>
