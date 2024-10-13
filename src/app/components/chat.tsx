@@ -23,7 +23,7 @@ export function Chat() {
   });
 
   return (
-    <main className="flex flex-col w-full h-screen max-h-dvh bg-gradient-to-b from-blue-50 to-blue-100 dark:from-gray-900 dark:to-gray-800">
+    <main className="flex flex-col w-full h-[calc(100vh-3.5rem)] max-h-dvh bg-gradient-to-b from-blue-50 to-blue-100 dark:from-gray-900 dark:to-gray-800">
       <header className="p-4 border-b border-blue-200 dark:border-gray-700 w-full max-w-3xl mx-auto bg-white dark:bg-gray-800 shadow-sm">
         <h1 className="text-2xl font-bold text-blue-600 dark:text-blue-400">
           Aroma Voyage Chatbot
